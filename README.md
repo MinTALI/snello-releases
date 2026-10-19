@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/logo.png" width="120" alt="Snello logo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <img src="assets/logo-light.png" width="120" alt="Snello logo" />
+  </picture>
 
   # Snello
 
